@@ -1,0 +1,79 @@
+Overview
+  - About me
+  - Goals
+  - Motivation
+  - What Expect?
+  - What Not Expect?
+  - What are we going to do?
+  - What tools de we need?
+  - Resources
+
+Git
+  - Overview
+  - basic commands
+
+Installing Everything
+  - Git
+  - Java
+  - STS
+  - Gradle
+  - MongoDB
+  - PostgreSQL
+
+Configuration Server
+  - Overview.
+  - Yaml Files vs Properties Files.
+  - Spring boot Configuration files: application and bootstrap.
+  - Demo:
+  - Git Repository.
+  - Services Configuration
+  - Fetching Configuration data.
+  - Live Reload Configurations.
+  - AMQP Rabbit MQ
+  - Demo:
+  
+API-First
+  - Swagger
+  - Products Microservice
+  - Inventory Microservice
+  - Comments Microservice
+  - Related Products
+
+JPA
+
+Products Microservice
+  - Overview
+  - MDB Configuration
+  - Application Configuration
+  - Restful implementation
+ 
+Inventory Microservice
+  - Overview
+  - PDB Configuration
+  - Application Configuration
+  - Restful implementation
+  
+Comments Microservice
+  - Overview
+  - MDB Configuration
+  - Application Configuration
+  - Restful implementation
+
+Edge Server
+  - Overview
+  - Configuration
+  - Demo:
+  
+Service Registry
+  - Overview.
+  - Service Registry Server Configuration.
+  
+Circuit Breakers
+  - Hystrix
+  - Hystrix Dashboard
+  - Turbine
+
+Deploying to Cloud
+
+  
+
